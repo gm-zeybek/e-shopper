@@ -1,0 +1,15 @@
+{
+  "name": "saucedemo-cypress",
+  "version": "1.0.0",
+  "description": "saucedemo page for cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.7.0"
+  }
+}

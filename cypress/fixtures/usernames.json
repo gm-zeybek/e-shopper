@@ -1,0 +1,6 @@
+{
+    "standard_usr": "standard_user",
+    "locked_usr": "locked_out_user",
+    "problem_usr": "problem_user",
+    "performance_usr": "performance_glitch_user"
+}
